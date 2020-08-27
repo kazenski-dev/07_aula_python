@@ -12,7 +12,7 @@ class PositivoNegativo:
     if valor % 2 ==0:
       print("Valor {0} e par".format(valor))
     else:
-      print("Valor {0} e impar".format(valor))
+      print("Valor {0} e impar.".format(valor))
 
 teste = PositivoNegativo()
 
